@@ -1,6 +1,7 @@
 ## Hello Everyone, I'm Erencan. 
 
-I am self taught web developer. While i learning, i using Freecodecamp, Stackoverflow,various Udemy Courses and bunch of developers from youtube. Currently I am working on React with Udemy course by Brad Traversy named React Front to Back
+I am self taught web developer. While i learning, i using Freecodecamp, Stackoverflow,various Udemy Courses and bunch of developers from youtube. Currently I am working on React with Udemy course by Brad Traversy, named React Front to Back <br><br>
+
 
 
 
@@ -11,10 +12,13 @@ I am self taught web developer. While i learning, i using Freecodecamp, Stackove
 > ##### _Path_ &nbsp;&nbsp; ![ReactNative][#reactnative]
 
 
+<br>
 
 ## Contact :point_down:
 
 [![LinkedIn][#linkedin]][@linkedin] [![Email][#gmail]][@gmail]
+
+<br>
 
 ## Blog :point_down:
 
