@@ -5,11 +5,17 @@ I am self taught web developer. While i learning, i using Freecodecamp, Stackove
 
 
 
-> ##### _Skills_ &nbsp;&nbsp;&nbsp; ![HTML5][#html] ![CSS3][#css] ![SASS][#sass] ![JavaScript][#javascript] ![Bootstrap][#bootstrap] ![Tailwind][#tailwind]
+> ## _Skills_ &nbsp;&nbsp;&nbsp; 
+> 
+> ![HTML5][#html] ![CSS3][#css] ![SASS][#sass] ![JavaScript][#javascript] ![Bootstrap][#bootstrap] ![Tailwind][#tailwind]
 >
-> ##### _Learning_ &nbsp; ![React][#react]
+> ## _Learning_ &nbsp; 
+> 
+> ![React][#react]
 >
-> ##### _Path_ &nbsp;&nbsp; ![ReactNative][#reactnative]
+> ## _Path_ &nbsp;&nbsp; 
+> 
+> ![ReactNative][#reactnative]
 
 
 <br>
