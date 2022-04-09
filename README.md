@@ -14,7 +14,7 @@ You can reach me on these . :point_down:
 
 [![LinkedIn][#linkedin]][@linkedin] [![Email][#gmail]][@gmail]
 
-## Blog :point_down
+## Blog :point_down:
 
 [![Medium][#medium]][@medium]
 
