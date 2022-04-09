@@ -1,6 +1,10 @@
 ## About Me
 
-Hello I'm Erencan and i am 26. I am self taught web developer. While i learning, i using Freecodecamp, Stackoverflow,various Udemy Courses and bunch of developers from youtube.
+Hello Everyone, 
+
+I'm Erencan and i am 26. 
+
+I am self taught web developer. While i learning, i using Freecodecamp, Stackoverflow,various Udemy Courses and bunch of developers from youtube.
 
 > ##### _Skills_ &nbsp;&nbsp;&nbsp; ![HTML5][#html] ![CSS3][#css] ![SASS][#sass] ![JavaScript][#javascript] ![Bootstrap][#bootstrap] ![Tailwind][#tailwind]
 >
