@@ -1,8 +1,6 @@
-## About Me
+## Hello Everyone, 
 
-Hello Everyone, 
-
-I'm Erencan and i am 26. 
+### I'm Erencan and I am 26 years old. 
 
 I am self taught web developer. While i learning, i using Freecodecamp, Stackoverflow,various Udemy Courses and bunch of developers from youtube.
 
