@@ -30,6 +30,6 @@ You can reach me on these . :point_down:
 [#gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [#stackoverflow]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white
 [#medium]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-[@linkedin]: https://www.linkedin.com/in/erencanertem/
+[@linkedin]: https://www.linkedin.com/in/erencan-ertem/
 [@gmail]: mailto:eertem95@gmail.com "Send me an email!"
 [@medium]: https://medium.com/@erencanertem
