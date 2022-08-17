@@ -1,6 +1,6 @@
 ## Hello Everyone, I'm Erencan. 
 
-I am self taught Front-End Developer and Swift enthusiast. While I am learning web development, I am using Freecodecamp, Stackoverflow,various Udemy Courses and bunch of developers from youtube. Currently I am working on SvelteJS and SvelteKit <br><br>
+I am self taught Front-End Developer and Swift enthusiast. While I am learning web development, I am using Freecodecamp, Stackoverflow,various Udemy Courses and bunch of developers from youtube. Currently I am working on SvelteJS and SvelteKit <br>
 
 
 
