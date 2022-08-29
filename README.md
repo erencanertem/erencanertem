@@ -1,17 +1,13 @@
 ## Hello Everyone, I'm Erencan. 
 
-I am self taught Front-End Developer and Swift enthusiast. While I am learning web development, I am using Freecodecamp, Stackoverflow,various Udemy Courses and bunch of developers from youtube. Currently I am working on SvelteJS and SvelteKit <br>
+I am self taught Front-End Developer and Swift enthusiast. While I am learning web development, I am using Freecodecamp, Stackoverflow,various Udemy Courses and bunch of developers from youtube. Currently I am working on Pure HTML, CSS, JavaScript, SvelteJS and SvelteKit <br>
 
 
 
 
  ## _Skills_ &nbsp;&nbsp;&nbsp; 
  
- ![HTML5][#html] ![CSS3][#css] ![SASS][#sass] ![JavaScript][#javascript] ![Bootstrap][#bootstrap] ![Tailwind][#tailwind]
-
- ## _Learning_ &nbsp; 
-
- ![React][#react]
+ ![HTML5][#html] ![CSS3][#css] ![SASS][#sass] ![JavaScript][#javascript] ![Bootstrap][#bootstrap] ![Tailwind][#tailwind] ![React][#react] ![Svelte][#svelte]
 
  ## _Path_ &nbsp;&nbsp; 
  
@@ -45,3 +41,4 @@ I am self taught Front-End Developer and Swift enthusiast. While I am learning w
 [@linkedin]: https://www.linkedin.com/in/erencan-ertem/
 [@gmail]: mailto:eertem95@gmail.com "Send me an email!"
 [@medium]: https://medium.com/@erencanertem
+[#svelte]https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
