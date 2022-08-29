@@ -41,4 +41,4 @@ I am self taught Front-End Developer and Swift enthusiast. While I am learning w
 [@linkedin]: https://www.linkedin.com/in/erencan-ertem/
 [@gmail]: mailto:eertem95@gmail.com "Send me an email!"
 [@medium]: https://medium.com/@erencanertem
-[#svelte]https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[#svelte]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
