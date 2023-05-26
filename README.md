@@ -1,6 +1,6 @@
 ## Hello Everyone, I'm Erencan. 
 
-I am self taught Front-End Developer and Swift enthusiast. Currently I am working at Novus Studio as Front-End Developer on these technologies: <br>  
+I am self taught Front-End Developer and Swift enthusiast. Currently I am working at Novus Studio as Front-End Developer with these technologies: <br>  
 HTML, CSS, Pure JavaScript, jQuery, SvelteJS and SvelteKit, Webflow also. <br>
 
 
