@@ -1,20 +1,10 @@
 ## Hello Everyone, I'm Erencan. 
 
-I am self taught Front-End Developer and Swift enthusiast. Currently I am working at Novus Studio as Front-End Developer with these technologies: <br>  
-HTML, CSS, Pure JavaScript, jQuery, SvelteJS and SvelteKit, Webflow also. <br>
+I am self taught Front-End Developer. Currently I am working at Piernet as Front-End Developer with these technologies: <br>  
+HTML, CSS, Pure JavaScript, React, React Native. <br>
 
-
-
-
- ## _Skills_ &nbsp;&nbsp;&nbsp; 
- 
- ![HTML5][#html] ![CSS3][#css] ![SASS][#sass] ![JavaScript][#javascript] ![Bootstrap][#bootstrap] ![Tailwind][#tailwind] ![React][#react] ![Svelte][#svelte]
-
- ## _Path_ &nbsp;&nbsp; 
- 
- ![ReactNative][#reactnative]
-
-
+ ## _Stack_ &nbsp;&nbsp;&nbsp; 
+ ![HTML5][#html] ![CSS3][#css] ![SASS][#sass] ![JavaScript][#javascript] ![Bootstrap][#bootstrap] ![Tailwind][#tailwind] ![React][#react] ![ReactNative][#reactnative] ![Svelte][#svelte]
 <br>
 
 ## Contact :point_down:
